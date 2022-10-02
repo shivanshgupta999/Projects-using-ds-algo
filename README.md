@@ -1,11 +1,10 @@
-# SNAKE GAME
+# COVID FIGHTER
 ### Description
-Help Snake to increase its size and score by eating apples.Game ends when Snake hits wall.
+Covid Fighter Game web application developed using Javascript!
 
 ### Skills nurtured:
   - Canvas API for UI design
-  - Arrays Data Structure & OOPs to build Snake and game functions.
-  - Maths logics to build snake, randomly generate apple,  increase score etc.
+  - Maths logics to build ENEMY, looping the enemy,  overlapping etc.
 
 ### Tech. Stack:
 HTML, CSS, JS, CANVAS
